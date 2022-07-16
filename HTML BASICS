@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aditya</title>
+</head>
+
+<body>
+    <hr>
+    <font color="red">
+        <H1 align="center">Aditya Bhatnagar</H1>
+    </font>
+    <hr>
+
+    <marquee>
+        Aditya is Student of Ducat india.&nbsp;&nbsp;&nbsp;||&nbsp;&nbsp;&nbsp;
+        Aditya is also Student of BCA&nbsp;&nbsp;&nbsp;&nbsp;||&nbsp;
+        <a href="sample page"> HOME</a>&nbsp;&nbsp;&nbsp;&nbsp;||&nbsp;
+        <a href="file:///D:/Documents/Website/Web%20task%201.html"> Achivements</a>&nbsp;&nbsp;&nbsp;&nbsp;||&nbsp;
+    </marquee>
+
+    <hr>
+    <img src="image/Aditya.jpg" alt="Aditya" width="100%" height="768px">
+    <hr>
+    <h1 align="center">About Aditya </h1>
+    <hr>
+    <p align="justify">Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta fugit temporibus doloremque
+        sapiente porro neque, amet libero tempore consectetur deleniti in harum nesciunt, nisi itaque dignissimos
+        beatae. Veritatis placeat corrupti et cupiditate accusantium id quo in quaerat distinctio ullam alias corporis
+        debitis eligendi illum a atque, quas autem fuga consectetur, est velit voluptatibus impedit vel? Laborum,
+        blanditiis aliquid assumenda at numquam nostrum rem ad sunt nihil similique accusamus iste commodi officia
+        reprehenderit quis adipisci, repellendus mollitia. Veritatis temporibus, laboriosam dolorum voluptate tempore
+        minus tempora nisi eligendi. Animi laborum error dolor quis, nesciunt quasi officia, quas tempora itaque debitis
+        commodi soluta obcaecati nostrum vero nulla quae at deleniti sequi reprehenderit. Id at perspiciatis vero
+        sapiente doloremque assumenda enim recusandae, quaerat facere a accusantium earum cumque similique dicta autem
+        iusto in expedita repellat optio. Consequatur reprehenderit debitis nisi quam deleniti earum doloremque,
+        sapiente similique perspiciatis soluta! Quae, totam. Earum temporibus dolores ipsum veniam perferendis rem
+        beatae enim error nisi ut sequi sint nihil ullam maxime dolore blanditiis, voluptates unde animi fugiat repellat
+        laborum provident. Praesentium tenetur eum cumque temporibus ipsa debitis voluptates fuga, placeat minima
+        consequatur ullam culpa esse numquam optio harum exercitationem voluptatem a quibusdam eos quas beatae magnam
+        inventore atque.</p>
+    <hr>
+    <a href="sample page"> Next page</a>&nbsp;&nbsp;&nbsp;&nbsp;||&nbsp;
+    <hr>
+</body>
+
+</html>
